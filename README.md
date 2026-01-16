@@ -1,5 +1,5 @@
 <h1><pre>Hi, I’m Qazi Abdul Qavi
-         MERN Stack Developer | Cybersecurity Learner & Enthusiast </pre>pre></h1>
+MERN Stack Developer | Cybersecurity Learner & Enthusiast </pre>pre></h1>
 </div>
 
 I am a Computer Science student at UET Peshawar with a strong academic background and a fast learning curve. I have hands-on experience in the MERN stack, with a primary focus on backend development.
