@@ -1,6 +1,12 @@
-# 💫 About Me:
-i am a computer science student at uet peshawar.<br> very good in academics .<br> good learning curve  <br>i have learn MERN stack <br>currently especially working on backend <br>expertise in Version Control like git and git hub <br>good knowledge about Operationg Sytem <br> Now currently learning Cybersecurity <br>i have done prompt engineering courses too and also know and usage and implementation of gen ai<br><br>
+Hi, I’m Qazi Abdul Qavi
+MERN Stack Developer | Cybersecurity Learner & Enthusiast
+</div>
 
+I am a Computer Science student at UET Peshawar with a strong academic background and a fast learning curve. I have hands-on experience in the MERN stack, with a primary focus on backend development.
+
+I am proficient in Git and GitHub for version control and collaboration, and I have solid knowledge of Operating System concepts. Currently, I am expanding my skill set by learning Cybersecurity, focusing on secure systems and best practices.
+
+I have also completed Prompt Engineering courses and have practical experience in the usage and implementation of Generative AI technologies. I am passionate about building scalable applications, writing clean backend logic, and continuously learning modern technologies.
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/qaziSon) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Qazi Abdul Qavi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Qazi Abdul Qavi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Qazi Abdul Qavi) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Qazi Abdul Qavi) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Qazi Abdul Qavi) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Qazi Abdul Qavi) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Qazi Abdul Qavi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@HistoryDecode2005) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:qazison445@gmail.com) 
